@@ -2622,19 +2622,19 @@ edition,year,venue,round,team 1,team 2,score,score_halftime
 2016-FRANCE,2014,Budapest,QUALIFYING,Hungary (Magyarország),Northern Ireland (Ulster),1-2,0-0
 2016-FRANCE,2014,Tallinn,QUALIFYING,Estonia (Eesti),Slovenia (Slovenija),1-0,0-0
 2016-FRANCE,2014,Reykjavík,QUALIFYING,Iceland (Ísland),Turkey (Türkiye),3-0,1-0
-2020-FRANCE,2016,København,QUALIFYING,Turkey (Turkey),Italy (Italia),0-3,0-0
-2020-FRANCE,2016,Athína,QUALIFYING,Wales (Cymru),Switzerland (Schweiz / Suisse),1-1,0-0
-2020-FRANCE,2016,Tórshavn,QUALIFYING,Denmark (Danmark),Finland (Suomi),0-1,0-0
-2020-FRANCE,2016,Budapest,QUALIFYING,Belgium (België),Russia (Россия),3-0,2-0
-2020-FRANCE,2016,Tallinn,QUALIFYING,England ,Croatia,1-0,0-0
-2020-FRANCE,2016,Tallinn,QUALIFYING,Austria ,Macedonia,3-1,1-1
-2020-FRANCE,2016,Tallinn,QUALIFYING,Netherlands ,Ukraine,3-2,0-0
-2020-FRANCE,2016,Tallinn,QUALIFYING,Scotland ,Czech Republic,0-2,0-1
-2020-FRANCE,2016,Tallinn,QUALIFYING,Poland ,Slovakia,1-2,0-1
-2020-FRANCE,2016,Tallinn,QUALIFYING,Spain ,Sweden,0-0,0-0
-2020-FRANCE,2016,Tallinn,QUALIFYING,Hungary ,Portugal,0-3,0-0
-2020-FRANCE,2016,Tallinn,QUALIFYING,France ,Germany,1-0,1-0
-2020-FRANCE,2016,Tallinn,QUALIFYING,Finland ,Russia,0-1,0-1
-2020-FRANCE,2016,Tallinn,QUALIFYING,Turkey ,Wales,0-2,0-1
-2020-FRANCE,2016,Tallinn,QUALIFYING,Italy ,Switzerland,3-0,1-0
+2020-FRANCE,2016,København,FS_GROUP_STAGE,Turkey (Turkey),Italy (Italia),0-3,0-0
+2020-FRANCE,2016,Athína,FS_GROUP_STAGE,Wales (Cymru),Switzerland (Schweiz / Suisse),1-1,0-0
+2020-FRANCE,2016,Tórshavn,FS_GROUP_STAGE,Denmark (Danmark),Finland (Suomi),0-1,0-0
+2020-FRANCE,2016,Budapest,FS_GROUP_STAGE,Belgium (België),Russia (Россия),3-0,2-0
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,England ,Croatia,1-0,0-0
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Austria ,Macedonia,3-1,1-1
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Netherlands ,Ukraine,3-2,0-0
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Scotland ,Czech Republic,0-2,0-1
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Poland ,Slovakia,1-2,0-1
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Spain ,Sweden,0-0,0-0
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Hungary ,Portugal,0-3,0-0
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,France ,Germany,1-0,1-0
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Finland ,Russia,0-1,0-1
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Turkey ,Wales,0-2,0-1
+2020-FRANCE,2016,Tallinn,FS_GROUP_STAGE,Italy ,Switzerland,3-0,1-0
 
